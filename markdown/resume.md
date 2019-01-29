@@ -15,7 +15,7 @@ Experience
 2016 - now
 :   **Citrusbyte**: Tech Lead • Senior Software Engineer
 
-    _TypeScript • JavaScript • React • UX • Product • Leadership_
+    _TypeScript • JavaScript • React • Ruby • UX • Product • Leadership_
 
     * Practice extreme ownership, collaborating with client, product manager,
       and designer to analyze core pain, find best solutions, and prioritize
@@ -30,14 +30,14 @@ Experience
 2017
 :   **Thaddeus Stevens College of Technology**: Curriculum designer • Professor
 
-    _Elixir + Phoenix • Public Speaking • Teaching/Mentoring_
+    _Elixir + Phoenix • Ruby on Rails • Public Speaking • Teaching/Mentoring_
 
     Forged new web engineering curriculum, designing and teaching two courses
 
 2015 - now
 :   **Entire.Life**: Cofounder
 
-    _React • React Native • GraphQL • Product • Business_
+    _React • React Native • GraphQL • Ruby on Rails • Product • Business_
 
     Ideation, product and UX design, code backend + frontend, create business plan, research markets & customer segments
 
@@ -49,22 +49,22 @@ Experience
 2015
 :   **Inksy**: Senior Engineer
 
-    _React • HTML Canvas • Software Architecture_
+    _React • HTML Canvas • Software Architecture • Ruby on Rails_
 
 2013 - 2015
 :   **PipelineDeals**: Engineer
 
-    _React • DevOps with Ansible • Message Queueing • Google Calendar integration_
+    _React • DevOps with Ansible • Message Queue • Google Calendar integration_
 
 2012
 :   **Charitybuzz**: Engineer
 
-    _Realtime page updates with Web Sockets_
+    _Realtime page updates with Web Sockets • Ruby on Rails_
 
 2010 - 2012
 :   **Comcast**: Engineer
 
-    _Test Driven Development • Pair Programming_
+    _Test Driven Development • Pair Programming • Ruby on Rails_
 
 
 Talks
