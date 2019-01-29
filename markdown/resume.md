@@ -32,7 +32,7 @@ Experience
 
     _Elixir + Phoenix • Ruby on Rails • Public Speaking • Teaching/Mentoring_
 
-    Forged new web engineering curriculum, designing and teaching two courses
+    Forged new web engineering curriculum, designed and taught two courses
 
 2015 - now
 :   **Entire.Life**: Cofounder
@@ -44,7 +44,7 @@ Experience
 2015 - now
 :   **Firehose Project**: Mentor
 
-    Teach, guide, pair on code, and assign appropriate homework
+    Teach, guide, pair on code, assign appropriate homework
 
 2015
 :   **Inksy**: Senior Engineer
@@ -93,7 +93,7 @@ Education
 2005 - 2009
 :   **BSc, Engineering Science and Electrical Engineering**; Penn State University (State College, Pennsylvania)
 
-    _Schreyer's Honers College • Cum Laude • 1st Place, Engineering Design Competition_
+    _Schreyer Honors College • Cum Laude • 1st Place, Engineering Design Competition_
 
     Thesis title: Exploration of novel heterostructure semiconductors to create energy efficient, tunnel-based Field Effect Transistors ([project code and report PDF](https://github.com/chadoh/undergrad-research-project))
 
