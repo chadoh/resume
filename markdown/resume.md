@@ -1,100 +1,104 @@
-Johnny Coder
-============
+Chad Ostrowski
+==============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Natural engineering leader.\
+>  Deep commitment to holistic product quality.\
+>  Experienced speaker and communicator.
 
 ----
-
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+2016 - now
+:   **Citrusbyte**: Tech Lead • Senior Software Engineer
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+    _TypeScript • JavaScript • React • UX • Product • Leadership_
 
-* First item
+    * Practice extreme ownership, collaborating with client, product manager,
+      and designer to analyze core pain, find best solutions, and prioritize
+      timeline
+    * Lead teams and set frontend direction
+    * Screen and interview candidates
+    * Work in fully remote and mostly asynchronous team environment
+    * Advocate for quality via code reviews and pair programming
+    * Spearheaded a research project into distributed web technologies
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
 
-**That Other Job You Had**
+2017
+:   **Thaddeus Stevens College of Technology**: Curriculum designer • Professor
 
-Also with a short description.
+    _Elixir + Phoenix • Public Speaking • Teaching/Mentoring_
 
-Technical Experience
---------------------
+    Forged new web engineering curriculum, designing and teaching two courses
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+2015 - now
+:   **Entire.Life**: Cofounder
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    _React • React Native • GraphQL • Product • Business_
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+    Ideation, product and UX design, code backend + frontend, create business plan, research markets & customer segments
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+2015 - now
+:   **Firehose Project**: Mentor
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+    Teach, guide, pair on code, and assign appropriate homework
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+2015
+:   **Inksy**: Senior Engineer
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+    _React • HTML Canvas • Software Architecture_
 
-[ref]: https://github.com/githubuser/superlongprojectname
+2013 - 2015
+:   **PipelineDeals**: Engineer
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+    _React • DevOps with Ansible • Message Queueing • Google Calendar integration_
 
-* Human Languages:
+2012
+:   **Charitybuzz**: Engineer
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+    _Realtime page updates with Web Sockets_
 
-* Random tidbit
+2010 - 2012
+:   **Comcast**: Engineer
 
-* Other sort of impressive-sounding thing you did
+    _Test Driven Development • Pair Programming_
+
+
+Talks
+-----
+
+**Online/Offline Equivalence: What our interplanetary tomorrow can teach us
+about building apps today** ([youtu.be/FXhPBiv4Roo](https://youtu.be/FXhPBiv4Roo))
+
+An introduction to building web apps that perform well, no matter how slow a user's network speed, and a tour of some of the ways the web may evolve in the future.
+
+
+**Quiz Quizzical Quixotic: Managing Pure-State UI Flows Without Going Mad**
+([youtu.be/VUKp4pjj0jM](https://youtu.be/VUKp4pjj0jM))
+
+A talk about the messes we sometimes make when creating nice user experiences, and how to turn them into nice developer experiences as well. The code-cleanup discussed in this video eventually became an open source library, [react-quizzical](https://github.com/chadoh/react-quizzical).
+
+
+**Earth Clouds Are The Best Clouds** ([youtu.be/wVpQGqTUOcM](https://youtu.be/wVpQGqTUOcM))
+
+A whimsical spoken-word performance about humanity's future in space, and the small things we'll miss when we're elsewhere.
+
+
+Education
+---------
+
+2005 - 2009
+:   **BSc, Engineering Science and Electrical Engineering**; Penn State University (State College, Pennsylvania)
+
+    _Schreyer's Honers College • Cum Laude • 1st Place, Engineering Design Competition_
+
+    Thesis title: Exploration of novel heterostructure semiconductors to create energy efficient, tunnel-based Field Effect Transistors ([project code and report PDF](https://github.com/chadoh/undergrad-research-project))
+
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <hi@chadoh.com> • +1 717 348 1974\
+> 342 N Queen Street, Rear - Lancaster Pennsylvania 17602, USA
