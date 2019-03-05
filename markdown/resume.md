@@ -30,14 +30,14 @@ Experience
 2017
 :   **Thaddeus Stevens College of Technology**: Curriculum designer • Professor
 
-    _Elixir + Phoenix • Ruby on Rails • Public Speaking • Teaching/Mentoring_
+    _Elixir + Phoenix • Public Speaking • Teaching/Mentoring_
 
     Forged new web engineering curriculum, designed and taught two courses
 
 2015 - now
 :   **Entire.Life**: Cofounder
 
-    _React • React Native • GraphQL • Ruby on Rails • Product • Business_
+    _React • Native • GraphQL • Product • Business_
 
     Ideation, product and UX design, code backend + frontend, create business plan, research markets & customer segments
 
@@ -49,7 +49,7 @@ Experience
 2015
 :   **Inksy**: Senior Engineer
 
-    _React • HTML Canvas • Software Architecture • Ruby on Rails_
+    _React • HTML Canvas • Software Architecture_
 
 2013 - 2015
 :   **PipelineDeals**: Engineer
@@ -59,12 +59,12 @@ Experience
 2012
 :   **Charitybuzz**: Engineer
 
-    _Realtime page updates with Web Sockets • Ruby on Rails_
+    _Realtime page updates with Web Sockets_
 
 2010 - 2012
 :   **Comcast**: Engineer
 
-    _Test Driven Development • Pair Programming • Ruby on Rails_
+    _Test Driven Development • Pair Programming_
 
 
 Talks
