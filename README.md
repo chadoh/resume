@@ -1,6 +1,8 @@
 The Markdown Resume
 ===================
 
+Forked from https://github.com/mszep/pandoc_resume, with updates for my own work history & experience.
+
 ### Instructions
 ```bash
 git clone https://github.com/mszep/pandoc_resume
