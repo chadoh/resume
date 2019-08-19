@@ -12,26 +12,19 @@ Chad Ostrowski
 Experience
 ----------
 
-May 2019 - now
+Since May
 :   **Autark**: Front End Lead
 
     _TypeScript • JavaScript • React • Solidity • Aragon_
 
-    * Set engineering standards
-    * Co-maintain open source projects
-    * Screen and interview candidates
-    * Work in remote and asynchronous team environment
-    * Advocate for quality via code reviews and pair programming
+    Set engineering standards • Co-maintain open source projects • Screen and interview candidates • Work in remote and asynchronous team environment • Advocate for quality via code reviews and pair programming
 
-2016 - May 2019
+2016 - 2019
 :   **Theorem (FKA Citrusbyte)**: Tech Lead • Senior Software Engineer
 
     _TypeScript • JavaScript • React • Ruby • UX • Product • Leadership_
 
-    * Practice extreme ownership, collaborating with client, product manager,
-      and designer to analyze core pain, find best solutions, and prioritize
-      timeline
-    * Spearheaded a research project into distributed web technologies
+    Collaborate with client, product manager, and designer to analyze core pain, find best solutions, and prioritize timeline
 
 2017
 :   **Thaddeus Stevens College of Technology**: Curriculum designer • Professor
@@ -40,7 +33,7 @@ May 2019 - now
 
     Forged new web engineering curriculum, designed and taught two courses
 
-2015 - now
+Since 2015
 :   **Entire.Life**: Cofounder
 
     _React • Native • GraphQL • Product • Business_
@@ -53,24 +46,16 @@ May 2019 - now
     Teach, guide, pair on code, assign appropriate homework
 
 2015
-:   **Inksy**: Senior Engineer
-
-    _React • HTML Canvas • Software Architecture_
+:   **Inksy**: Senior Engineer –  _React • HTML Canvas • Software Architecture_
 
 2013 - 2015
-:   **PipelineDeals**: Engineer
-
-    _React • DevOps with Ansible • Message Queue • Google Calendar integration_
+:   **PipelineDeals**: Engineer – _React • DevOps with Ansible • Message Queue • Google Calendar integration_
 
 2012
-:   **Charitybuzz**: Engineer
-
-    _Realtime page updates with Web Sockets_
+:   **Charitybuzz**: Engineer – _Realtime page updates with Web Sockets_
 
 2010 - 2012
-:   **Comcast**: Engineer
-
-    _Test Driven Development • Pair Programming_
+:   **Comcast**: Engineer –  _Test Driven Development • Pair Programming_
 
 
 Talks
