@@ -12,20 +12,26 @@ Chad Ostrowski
 Experience
 ----------
 
-2016 - now
-:   **Citrusbyte**: Tech Lead • Senior Software Engineer
+May 2019 - now
+:   **Autark**: Front End Lead
+
+    _TypeScript • JavaScript • React • Solidity • Aragon_
+
+    * Set engineering standards
+    * Co-maintain open source projects
+    * Screen and interview candidates
+    * Work in remote and asynchronous team environment
+    * Advocate for quality via code reviews and pair programming
+
+2016 - May 2019
+:   **Theorem (FKA Citrusbyte)**: Tech Lead • Senior Software Engineer
 
     _TypeScript • JavaScript • React • Ruby • UX • Product • Leadership_
 
     * Practice extreme ownership, collaborating with client, product manager,
       and designer to analyze core pain, find best solutions, and prioritize
       timeline
-    * Lead teams and set frontend direction
-    * Screen and interview candidates
-    * Work in fully remote and mostly asynchronous team environment
-    * Advocate for quality via code reviews and pair programming
     * Spearheaded a research project into distributed web technologies
-
 
 2017
 :   **Thaddeus Stevens College of Technology**: Curriculum designer • Professor
@@ -41,7 +47,7 @@ Experience
 
     Ideation, product and UX design, code backend + frontend, create business plan, research markets & customer segments
 
-2015 - now
+2015 - 2018
 :   **Firehose Project**: Mentor
 
     Teach, guide, pair on code, assign appropriate homework
