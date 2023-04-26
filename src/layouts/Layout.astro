@@ -16,13 +16,25 @@
 </html>
 <style is:global>
 	:root {
-		--accent: 124, 58, 237;
-		--accent-gradient: linear-gradient(45deg, rgb(var(--accent)), #da62c4 30%, white 60%);
+		--accent: #23a6d5;
+		--accent2: rgb(124, 58, 237);
+		--accent-gradient: linear-gradient(-45deg, var(--accent), var(--accent2));
 	}
 	html {
 		font-family: system-ui, sans-serif;
 		background-color: #F6F6F6;
 	}
+  a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+  a:hover,
+  a:focus {
+    border-bottom: 1px solid var(--accent2);
+  }
+  a:active {
+    color: var(--accent2);
+  }
 	body {
 		margin: auto;
 		padding: 1.5rem;
@@ -35,7 +47,22 @@
 		-webkit-text-fill-color: transparent;
 		background-size: 400%;
 		background-position: 0%;
+  	background-size: 400% 400%;
 	}
+  h1:first-child {
+  	animation: gradient 15s ease infinite;
+  }
+  @keyframes gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
   .responsiveVideoWrap {
     padding-bottom:56.25%;
     height:0;
