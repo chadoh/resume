@@ -1,78 +1,55 @@
-The Markdown Resume
-===================
-
-Forked from https://github.com/mszep/pandoc_resume, with updates for my own work history & experience.
-
-### Instructions
-```bash
-git clone https://github.com/mszep/pandoc_resume
-cd pandoc_resume
-vim markdown/resume.md   # insert your own resume info
-make
-```
-
-### Running Dockerized
-```bash
-git clone https://github.com/mszep/pandoc_resume
-cd pandoc_resume
-vim markdown/resume.md   # insert your own resume info
-docker-compose up -d
-```
-
-### Requirements
-
-* ConTeXt 0.6X
-* pandoc 2.x
-    * 1.x is deprecated
-
-Last tested on the above versions and that's not to say the later versions won't work. Please try to use the latest versions when possible.
-
-#### Debian / Ubuntu
-
-```bash
-sudo apt install pandoc context
-```
-
-#### Fedora
-```bash
-sudo dnf install pandoc texlive-collection-context
-```
-
-#### Arch
-```bash
-sudo pacman -S pandoc texlive-core
-```
-
-#### OSX
-```bash
-brew install pandoc
-brew cask install mactex
-```
-
-### Troubleshooting
-
-#### Get versions
-
-Check if the dependencies are up to date.
+# Astro Starter Kit: Basics
 
 ```
-context --version
-pandoc --version
+pnpm create astro@latest -- --template basics
 ```
 
-#### Cannot process lua
-Currently pandoc 1.x may be within your distro's repos and the latest version should be used. See the
-[pandoc releases](https://github.com/jgm/pandoc/releases) for your distro.
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
+[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
 
-e.g. for Debian / Ubuntu
+> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+
+![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
+
+
+## 🚀 Project Structure
+
+Inside of your Astro project, you'll see the following folders and files:
+
 ```
-wget https://github.com/jgm/pandoc/releases/download/2.2.1/pandoc-2.2.1-1-amd64.deb
-sudo dpkg -i pandoc-2.2.1-1-amd64.deb
+/
+├── public/
+│   └── favicon.svg
+├── src/
+│   ├── components/
+│   │   └── Card.astro
+│   ├── layouts/
+│   │   └── Layout.astro
+│   └── pages/
+│       └── index.astro
+└── package.json
 ```
 
-#### Context executable cannot be found
-Some users have reported problems where their system does not properly find the ConTeXt
-executable, leading to errors like `Cannot find context.lua` or similar. It has been found
-that running `mtxrun --generate`, ([suggested on texlive-2011-context-problem](
-https://tex.stackexchange.com/questions/53892/texlive-2011-context-problem)), can fix the
-issue.
+Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+
+There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+
+Any static assets, like images, can be placed in the `public/` directory.
+
+## 🧞 Commands
+
+All commands are run from the root of the project, from a terminal:
+
+| Command                   | Action                                           |
+| :------------------------ | :----------------------------------------------- |
+| `pnpm install`             | Installs dependencies                            |
+| `pnpm run dev`             | Starts local dev server at `localhost:3000`      |
+| `pnpm run build`           | Build your production site to `./dist/`          |
+| `pnpm run preview`         | Preview your build locally, before deploying     |
+| `pnpm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `pnpm run astro -- --help` | Get help using the Astro CLI                     |
+
+## 👀 Want to learn more?
+
+Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).

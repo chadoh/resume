@@ -1,7 +1,11 @@
+---
+layout: ../layouts/Layout.astro
+---
+
 Chad Ostrowski
 ==============
 
->  9-year veteran of web2 startup & consultancy world, full-time in web3 for 4 years since 2019
+9-year veteran of web2 startup & consultancy world, full-time in web3 for 4 years since 2019
 
 Experience
 ==========
@@ -13,7 +17,7 @@ _Rust • TypeScript • Smart Contracts • WebAssembly (Wasm) • R&D_
 
 Built front half of [RAEN](https://youtu.be/VenoNgWdvw0) • Streamlined NFT landing pages [for TENK DAO](https://github.com/TENK-DAO/frontend-starter) • Initiated improved developer experience [for Soroban CLI](https://docs.google.com/document/d/16lJhyMU6cqRzNtMclr9yXd978MJgbZ0El9UhxbTz_Ts/edit#heading=h.4tvfd2wht2ga) • Helped smart contract SDK authors [compare Rust+Wasm approaches](https://ahalabs.dev/posts/comparing-rust-smart-contract-storage-approaches/) • Helped guide [shape](https://github.com/stellar/soroban-examples/pull/216) of nascent [Soroban testing library](https://docs.rs/soroban-test)
 
-Near Inc • (now known as [Pagoda](https://www.pagoda.co/)): Software Engineer, Developer Experience • 2020 - 2021
+Pagoda (fka Near Inc) • Software Engineer • 2020 - 2021
 --------
 
 _TypeScript • AssemblyScript • Rust • Smart Contracts • WebAssembly_
@@ -23,11 +27,11 @@ Built initial Rainbow Bridge UI • Delivered [well-loved talk about Rainbow Bri
 Autark • Front End Lead • 2019
 --------
 
-    _TypeScript • JavaScript • React • Solidity • Aragon_
+_TypeScript • JavaScript • React • Solidity • Aragon_
 
-    Set engineering standards • Co-maintain open source projects • Screen and interview candidates • Work in remote and asynchronous team environment • Advocate for quality via code reviews and pair programming
+Set engineering standards • Co-maintain open source projects • Screen and interview candidates • Work in remote and asynchronous team environment • Advocate for quality via code reviews and pair programming
 
-Theorem (FKA Citrusbyte) • Tech Lead / Senior Software Engineer • 2016 - 2019
+Theorem (FKA Citrusbyte) • Tech Lead • 2016 - 2019
 --------
 
 _TypeScript • JavaScript • React • Ruby • UX • Product • Leadership_
@@ -53,8 +57,10 @@ Firehose Project • Mentor • 2015 - 2018
 
 Teach, guide, pair on code, assign appropriate homework
 
-Inksy • Senior Engineer –  _React • HTML Canvas • Software Architecture_ • 2015
+Inksy • Senior Engineer • 2015
 --------
+
+_React • HTML Canvas • Software Architecture_ 
 
 PipelineDeals • Engineer • 2013 - 2015
 --------
@@ -75,28 +81,56 @@ _Ruby on Rails • Test Driven Development • Pair Programming_
 Talks
 =====
 
+Make it RAEN: Tooling for Ambitious Open Web Apps
+--------
+
+The biggest gap in NEAR's current tooling & education exists between "hackathon Proof-of-Concept" and "full-scale app". How's a hacker to evolve a weekend project into a well-architected codebase that serves a userbase of millions? What are the best current patterns for building on the Open Web, and how can a builder upgrade to the latest patterns "for free", harnessing the research and development of the whole ecosystem, rather than re-performing the research themselves?
+
+RAEN has already laid the foundation for tooling that answers these questions. We'll learn how it works now, where it's headed, how to get started (so easy!), and how to get involved.
+
+<div class="responsiveVideoWrap">
+  <iframe src="https://www.youtube.com/embed/VenoNgWdvw0" title="Make it RAEN: Tooling for Ambitious Open Web Apps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+NEAR vs Soroban vs CosmWasm: how SDKs wrap the key-value store
+------
+
+One of the first things you do when writing a smart contract is create some data and store it. Every blockchain I know of uses a key-value store to persist this data, but the way various SDKs provide access to that data store varies significantly. This video compares the approaches of three different Rust-to-WebAssembly (Wasm) smart contract platforms: NEAR, Soroban, and CosmWasm.
+
+<div class="responsiveVideoWrap">
+  <iframe src="https://www.youtube.com/embed/uecOkEx1Cyc" title="NEAR vs Soroban vs CosmWasm: how SDKs wrap the key-value store" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 Online/Offline Equivalence: What our interplanetary tomorrow can teach us about building apps today
 ------
 
-([youtu.be/FXhPBiv4Roo](https://youtu.be/FXhPBiv4Roo))
-
 An introduction to building web apps that perform well, no matter how slow a user's network speed, and a tour of some of the ways the web may evolve in the future.
+
+<div class="responsiveVideoWrap">
+  <iframe src="https://www.youtube.com/embed/FXhPBiv4Roo" title="Online/Offline equivalence: What our interplanetary tomorrow can teach us today (Chad Ostrowski)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 Quiz Quizzical Quixotic: Managing Pure-State UI Flows Without Losing It
 -------
 
-([youtu.be/VUKp4pjj0jM](https://youtu.be/VUKp4pjj0jM))
-
 A talk about the messes we sometimes make when creating nice user experiences, and how to turn them into nice developer experiences as well. The code-cleanup discussed in this video eventually became an open source library, [react-quizzical](https://github.com/chadoh/react-quizzical).
+
+<div class="responsiveVideoWrap">
+  <iframe src="https://www.youtube.com/embed/VUKp4pjj0jM" title="Quiz Quizzical Quixotic: Managing Pure-State UI Flows Without Losing It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 
 Earth Clouds Are The Best Clouds
 -------
 
-([youtu.be/wVpQGqTUOcM](https://youtu.be/wVpQGqTUOcM))
-
 A whimsical spoken-word performance about humanity's future in space, and the small things we'll miss when we're elsewhere.
+
+<div class="responsiveVideoWrap">
+  <iframe src="https://www.youtube.com/embed/wVpQGqTUOcM" title="Earth Clouds Are The Best Clouds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 Education
