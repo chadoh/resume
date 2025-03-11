@@ -10,12 +10,12 @@ Chad Ostrowski
 Experience
 ==========
 
-Aha Labs • Cofounder • 2021 - now
+Aha Labs • Cofounder & CEO • 2021 - now
 --------
 
-_Rust • TypeScript • Smart Contracts • WebAssembly (Wasm) • R&D_
+_Rust • TypeScript • Smart Contracts • WebAssembly (Wasm) • R&D • Sales • Talent Acquisition_
 
-Built front half of [RAEN](https://youtu.be/VenoNgWdvw0) • Streamlined NFT landing pages [for TENK DAO](https://github.com/TENK-DAO/frontend-starter) • Initiated improved developer experience [for Soroban CLI](https://docs.google.com/document/d/16lJhyMU6cqRzNtMclr9yXd978MJgbZ0El9UhxbTz_Ts/edit#heading=h.4tvfd2wht2ga) • Helped smart contract SDK authors [compare Rust+Wasm approaches](https://ahalabs.dev/posts/comparing-rust-smart-contract-storage-approaches/) • Helped guide [shape](https://github.com/stellar/soroban-examples/pull/216) of nascent [Soroban testing library](https://docs.rs/soroban-test)
+Negotiated contract and architected solutions that helped end years of slow developer attrition to [transform Stellar](https://ahalabs.dev/offerings/devx-audit/) into one of the fastest-growing blockchain ecosystems • Created [Loam](https://loam.build/), a convention-over-configuration framework for building ambitious decentralized apps on Stellar • Built front half of [RAEN](https://youtu.be/VenoNgWdvw0) • Streamlined NFT landing pages [for TENK DAO](https://github.com/TENK-DAO/frontend-starter)
 
 Pagoda (fka Near Inc) • Software Engineer • 2020 - 2021
 --------
@@ -31,7 +31,7 @@ _TypeScript • JavaScript • React • Solidity • Aragon_
 
 Set engineering standards • Co-maintain open source projects • Screen and interview candidates • Work in remote and asynchronous team environment • Advocate for quality via code reviews and pair programming
 
-Theorem (FKA Citrusbyte) • Tech Lead • 2016 - 2019
+TheoremOne (FKA Citrusbyte) • Tech Lead • 2016 - 2019
 --------
 
 _TypeScript • JavaScript • React • Ruby • UX • Product • Leadership_
@@ -60,7 +60,7 @@ Teach, guide, pair on code, assign appropriate homework
 Inksy • Senior Engineer • 2015
 --------
 
-_React • HTML Canvas • Software Architecture_ 
+_React • HTML Canvas • Software Architecture_
 
 PipelineDeals • Engineer • 2013 - 2015
 --------
