@@ -5,7 +5,7 @@ layout: ../layouts/Layout.astro
 Chad Ostrowski
 ==============
 
-9-year veteran of web2 startup & consultancy world, full-time in web3 for 4 years since 2019
+Product vision, empathic communication, technical expertise. 2010-2019: startups & web consulting. 2019-now: blockchain & dapps.
 
 Experience
 ==========
